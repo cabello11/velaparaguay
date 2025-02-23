@@ -1,7 +1,0 @@
-jsonp8952({
-  "error" : "access_denied",
-  "site_cookie_domain" : ".abc.com.py",
-  "email_confirmation_required" : null,
-  "extend_expired_access_enabled" : false,
-  "authorized_by_sso" : false
-})
